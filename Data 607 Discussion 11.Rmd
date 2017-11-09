@@ -1,0 +1,44 @@
+---
+title: "Data 607 Discussion 11"
+author: "Natalie Mollaghan & Mike Gankhuyag"
+date: "11/7/2017"
+output: html_document
+---
+
+#Recommendar Systems: Kayak.Com
+
+Kayak.com is a fare aggregartor and travel metasearch engine. Kayak has userful tools and features to help focus travel search - such as a pricing matrix and price alerts.
+
+
+##Kayak Scenario Design:
+###Who are your target users?
+
+The Kayak target user is someone searching for affordable flights or a user who is pricing out flights to different destinations.
+
+###What are their key goals?
+
+The key goal of Kayak is to get users to search for flights through their site. In addition, there is add on services, such as searching for car rentals and hotel bookings, that you can search on Kayak.
+
+###How can you help them accomplish these goals?
+
+Kayak's recommendations don't seem to follow any personalized search history or previous trips that have been booked using the site. A few simple recommendar techniques could have users coming back to the site and using it for books more often.
+
+##Consider whether it makes sense for your selected recommender system to perform scenario design twice.
+
+It would make sense for Kayak to perform two scenario design twice- once would help to create some user classifications, like customers who are traveling for work versus people who are taking a vacation. Customers who are very flexible with their dates versus people who need to travel at a specific time. Customers who search a few different locations versus people who have one destination in mind. The second design scenario would target individual users based on their search history.
+
+##Reverse engineering and recommendations for Kayak
+
+#####Mike -
+Kayak’s recommendation for me, included six places, which were Miami, Fort Lauderdale, Las Vegas, Chicago, Jacksonville, and Tampa Bay. These recommendations are very poor, considering the fact that I have been to four of locations already and for  all six, I don’t plan on visiting anytime soon. Also, the recommendations do not include much variety of locations, because four of the six locations included is a city in Florida. Overall, Kayak’s recommendations were very poor and I would suggest that Kayak needs to recommend a variety of places in different areas of the country/world. 
+
+ 
+####Natalie - 
+Kayak did an decent job at recommending different flight options to me based on the flight that I searched and booked using their site, however, most of the flights that were recommended to me were either right before my trip or right after. Probably not a feasible option to go on two big vacations in a row. 
+
+It would be advantageous for Kayak to take the timing of trips into consideration, as well as how many vacation days the average American has. If a customer is seaching for a two week vacation, there's a chance that they have used up all of their work vacation and may only be able to take weekend trips. 
+
+Another suggestion for Kayak would be to include suggestions on why traveling to a certain destination during a specific time period would be worthwhile. For example, go to Costa Rica in March/April to experience the leatherback turtle nesting season. 
+
+A final suggestion for Kayak would be for to recommend travel based on a customers that have a history. For example, if a customer of searching exotic locations, Kayak could recommend these types of places when there is a cheap flight.
+
